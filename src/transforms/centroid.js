@@ -61,7 +61,7 @@ export function poi({geometry = identity, ...options} = {}) {
         path(G[i]);
         for (const h of holes) polygons.find(([ring]) => polygonContains(ring, h[0]))?.push(h);
         const a = greatest(
-          polygons.map((d) => polylabel(d, 0.01)),
+          polygons.map((d) => polylabel(d)),
           (d) => d.distance
         );
         [X[i], Y[i]] = a ? [a[0], -a[1] / alpha] : path.centroid(G[i]);
