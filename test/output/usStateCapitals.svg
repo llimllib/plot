@@ -103,7 +103,7 @@
     <circle cx="243.94752682885255" cy="101.42082508515091" r="3"></circle>
     <circle cx="478.1272515272697" cy="251.89132961706855" r="3"></circle>
     <circle cx="85.78353341212028" cy="238.2661785439425" r="3"></circle>
-    <circle cx="882.3344647787117" cy="147.1043980163546" r="3"></circle>
+    <circle cx="882.3344647787117" cy="147.10439801635425" r="3"></circle>
     <circle cx="846.3245151055719" cy="225.21607914852927" r="3"></circle>
     <circle cx="311.1987512759641" cy="358.3452523136873" r="3"></circle>
     <circle cx="800.3849136984336" cy="337.04170247949946" r="3"></circle>
@@ -155,7 +155,7 @@
     <text transform="translate(243.94752682885255,101.42082508515091)"><tspan x="0" y="-1em">Helena</tspan><tspan x="0" dy="1em">Montana</tspan></text>
     <text transform="translate(478.1272515272697,251.89132961706855)"><tspan x="0" y="-1em">Lincoln</tspan><tspan x="0" dy="1em">Nebraska</tspan></text>
     <text transform="translate(85.78353341212028,238.2661785439425)"><tspan x="0" y="-1em">Carson City</tspan><tspan x="0" dy="1em">Nevada</tspan></text>
-    <text transform="translate(882.3344647787117,147.1043980163546)"><tspan x="0" y="-1em">Concord</tspan><tspan x="0" dy="1em">New Hampshire</tspan></text>
+    <text transform="translate(882.3344647787117,147.10439801635425)"><tspan x="0" y="-1em">Concord</tspan><tspan x="0" dy="1em">New Hampshire</tspan></text>
     <text transform="translate(846.3245151055719,225.21607914852927)"><tspan x="0" y="-1em">Trenton</tspan><tspan x="0" dy="1em">New Jersey</tspan></text>
     <text transform="translate(311.1987512759641,358.3452523136873)"><tspan x="0" y="-1em">Santa Fe</tspan><tspan x="0" dy="1em">New Mexico</tspan></text>
     <text transform="translate(800.3849136984336,337.04170247949946)"><tspan x="0" y="-1em">Raleigh</tspan><tspan x="0" dy="1em">North Carolina</tspan></text>
